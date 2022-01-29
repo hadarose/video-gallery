@@ -1,4 +1,6 @@
+![image](https://user-images.githubusercontent.com/68274794/151677454-e7ce7667-8987-4ae6-b6f7-1675c262e143.png)
 
+This project was bootstraped with create-react-app
 
 ### `npm start`
 
